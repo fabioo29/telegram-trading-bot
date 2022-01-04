@@ -1,8 +1,4 @@
-<center>
-<h1>
- telegram-trader-bot
-</h1>
-</center>
+<h1 align="center"> telegram-trader-bot </h1>
 
 This metatrader bot focused on Forex allows you to control your trades and receive alerts with simple commands through telegram in your mobile device. It's easy to use.
 
